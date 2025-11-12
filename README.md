@@ -1,5 +1,5 @@
-# Daedalus' Labyrinth
+# Daedalus' Labyrinth GT Edition
 
-Daedalus' Labyrinth adds a new dimension for you to explore.
+same as original, but with higher chance for edge exits
 
-See [curseforge](https://minecraft.curseforge.com/projects/daedalus-labyrinth) for more information and downloads.
+See [curseforge](https://minecraft.curseforge.com/projects/daedalus-labyrinth) for original
