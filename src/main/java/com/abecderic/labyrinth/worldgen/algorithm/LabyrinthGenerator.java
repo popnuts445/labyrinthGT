@@ -10,7 +10,7 @@ import java.util.Random;
 
 public class LabyrinthGenerator
 {
-    private static final int EDGE_EXIT_CHANCE = 4;
+    private static final int EDGE_EXIT_CHANCE = 8;
     private static final int SPECIAL_ROOMS_ITERATIONS = 32;
     private static final int DOUBLE_ROOM_ITERATIONS = 4;
     private static final int TRIPLE_ROOM_ITERATIONS = 4;
